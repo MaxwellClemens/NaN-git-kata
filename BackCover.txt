@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Jeremy took a trip to europe.
+=======
+
+Jeremy took a trip to europe.
+
+
+He saw tree. He picked a peach.
+>>>>>>> bf27cc8c6bef4e7b1e57c900591850523e84fd6a
