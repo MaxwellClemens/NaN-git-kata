@@ -1,0 +1,1 @@
+Jeremy took a trip across the pond to Europe. Upon his arrival he discovered that the beer was quite mediocre. 
